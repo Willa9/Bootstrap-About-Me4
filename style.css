@@ -1,0 +1,57 @@
+.jumbotron {
+  color: #E833A4;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.one {
+  background-color: #E6FF47;
+  padding: 15px;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: #1E8DB3;
+}
+
+h4 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #000000;
+}
+
+h5 {
+  font-family: 'Roboto Slab', serif;
+  color: #8B4DFF;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  color: #E6FF47;
+  background-color: #000000;
+}
+
+a {
+  color: #1E8DB3;
+  font-size: 18px;
+}
+
+a:hover {
+  color: #8B4DFF;
+  font-size: 18px;
+}
+
+a:visited {
+  color: #000000;
+  font-size: 18px;
+}
+
+/*1E8DB3 -blue
+8B4DFF -lavender
+41E85A -green
+E6FF47 -yellow
+E833A4 -pink
+
+3D2080 -dark purple
+49E659 -sea green
+*/
